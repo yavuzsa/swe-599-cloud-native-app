@@ -11,10 +11,10 @@ I have omitted the ` API_URL ` in the request. It is replaced with the API Gatew
 ```json 
 
 {
-  "amount": 20000,
-  "interest": 2.8,
-  "maturity": 24,
-  "operation": "simple"
+  "amount": 20000,          // Number (decimal)
+  "interest": 2.8,          // Number (decimal)
+  "maturity": 24,           // Number (integer)
+  "operation": "simple"     // String
 }
 
 ```
