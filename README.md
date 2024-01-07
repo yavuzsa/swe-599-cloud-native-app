@@ -58,3 +58,8 @@ You can use policy below to add to your lambda funtion in IAM (AWS Identity and 
 }
 
 ```
+
+## Sequence Diagram for Detailed Calculation Operation
+
+![image](https://github.com/yavuzsa/swe-599-cloud-native-app/assets/64078926/be7c2772-2e56-441d-b026-9e8d43ca5e75)
+
