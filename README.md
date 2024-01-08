@@ -32,6 +32,8 @@ I have omitted the ` API_URL ` in the request. It is replaced with the API Gatew
 
 ## To Run Tests
 
+` startlocust.sh ` can be excecuted after replacing ` YOUR_HOST_NAME `
+
 ## Lambda Functions
 
 Codes for lambda functions can be found in files called ` lambda1.py ` and ` lambda2.py `.  
